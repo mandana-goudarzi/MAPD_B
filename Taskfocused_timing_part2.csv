@@ -1,0 +1,5 @@
+num_cores,memory_size,npartitions,num_executor,task_embedding,task_cos_sim
+"2","4g","4","3","4.89","161.46"
+"2","4g","4","3","4.36","151.85"
+"4","4g","2","6","5.26","156.84"
+"4","4g","2","6","5.61","159.15"
